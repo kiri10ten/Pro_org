@@ -1,6 +1,9 @@
 # Pro_org
 GUI app to organize files with ease 
 
+Download and open the file in vscode and run 
+
+``  python prorg.py ``
 # Todo
 
 ## ProOrg - File Organization GUI Application V1.0.1
